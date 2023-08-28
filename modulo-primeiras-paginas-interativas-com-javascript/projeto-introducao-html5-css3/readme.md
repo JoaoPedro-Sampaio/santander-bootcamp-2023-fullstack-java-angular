@@ -1,4 +1,4 @@
-# Módulo no bootcampda Dio onde aprendemos nossa primeira página interativa com Javascript.
+# Módulo no bootcamp da Dio onde aprendemos nossa primeira página interativa com Javascript.
 
 
 Abrangindo a criação de uma página pessoal com HTML5 e CSS3, passando pela sintaxe básica de Javascript, depois pela introdução ao desenvolvimento Web com Javascript.
